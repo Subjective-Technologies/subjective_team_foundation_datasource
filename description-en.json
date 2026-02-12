@@ -1,4 +1,5 @@
 {
+  "description": "Ingests Team Foundation repository content into local storage for source indexing and automation workflows.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Team Foundation",
-      "text": "A Subjective data source for team foundation.",
+      "text": "Ingests Team Foundation repository content into local storage for source indexing and automation workflows.",
       "image": {
         "src": "/subjective_team_foundation_datasource/icon.svg",
         "alt": "Team Foundation icon"
